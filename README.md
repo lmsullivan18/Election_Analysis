@@ -1,9 +1,9 @@
-# Election_Analysis
-Overview of Election Audit
+# Election Analysis
+## Overview of Election Audit
 
-The purpose of this election analysis was to use the vote data to determine who won the election, but also to find out more about voter turnout in each county.
+The purpose of this election analysis was to create a code that would run through a CSV file of local election data and determine who won the election, but also to find out more about voter turnout in each county.
 
-# Election-Audit Results
+## Election Audit Results
 
 - In this congressional election, 369,711 total votes were cast.
 
@@ -15,6 +15,6 @@ The purpose of this election analysis was to use the vote data to determine who 
 
 - In the end, Diana DeGette won this election, with 272,892 votes cast for her, counting for 73.8% of votes.
 
-# Election-Audit Summary
+## Election Audit Summary
 
-The script created for this analysis can be used for any election. For a national election, you could adjust the data to determine who won each state state, then add another for loop to determine who won the most states, therefore determining the winner. For a county=level election, you could 
+The script created for this analysis can be used for any election. For a national election, you could adjust the code to pull the data to determine who won each state (instead of how it currently pulls data for each county), then add another for loop to determine who won the most states, therefore determining the winner. For a county-level election, you could add another for loop to determine the votes just within each county to determine who won the election there. 
