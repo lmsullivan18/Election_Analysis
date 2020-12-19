@@ -4,7 +4,7 @@
 The purpose of this election analysis was to create a code that would run through a CSV file of local election data and determine who won the election, but also to find out more about voter turnout in each county.
 
 ## Election Audit Results
-Bulleted results of the election can be found below, along with 
+Bulleted results of the election can be found below, along with an image of what the code outputs.
 
 - In this congressional election, 369,711 total votes were cast.
 
@@ -20,4 +20,8 @@ Bulleted results of the election can be found below, along with
 
 ## Election Audit Summary
 
-The script created for this analysis can be used for any election. For a national election, you could adjust the code to pull the data to determine who won each state (instead of how it currently pulls data for each county), then add another for loop to determine who won the most states, therefore determining the winner. For a county-level election, you could add another for loop to determine the votes just within each county to determine who won the election there. 
+The script created for this analysis can be used for any election. 
+
+For a national election, you could adjust the code to pull the data from each state (instead of how it currently pulls data for each county), to determine which state makes up the most votes. You could then then add another for loop to determine who won the most states, therefore determining the winner of the election. 
+
+For a county-level election, you could add another for loop to determine the votes just within each county to determine who won the election there. 
