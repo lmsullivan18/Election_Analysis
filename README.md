@@ -15,7 +15,7 @@ The purpose of this election analysis was to create a code that would run throug
 
 - In the end, Diana DeGette won this election, with 272,892 votes cast for her, counting for 73.8% of votes.
 
-![Election Analysis](https://user-images.githubusercontent.com/74469315/102696359-b9848a80-41fb-11eb-9fa6-695a274e228d.PNG 
+![Election Analysis](https://user-images.githubusercontent.com/74469315/102696359-b9848a80-41fb-11eb-9fa6-695a274e228d.PNG
 
 ## Election Audit Summary
 
