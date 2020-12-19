@@ -4,6 +4,7 @@
 The purpose of this election analysis was to create a code that would run through a CSV file of local election data and determine who won the election, but also to find out more about voter turnout in each county.
 
 ## Election Audit Results
+Bulleted results of the election can be found below, along with 
 
 - In this congressional election, 369,711 total votes were cast.
 
