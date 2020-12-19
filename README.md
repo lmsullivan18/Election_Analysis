@@ -15,6 +15,8 @@ The purpose of this election analysis was to create a code that would run throug
 
 - In the end, Diana DeGette won this election, with 272,892 votes cast for her, counting for 73.8% of votes.
 
+![Election Analysis](https://user-images.githubusercontent.com/74469315/102696359-b9848a80-41fb-11eb-9fa6-695a274e228d.PNG
+
 ## Election Audit Summary
 
 The script created for this analysis can be used for any election. For a national election, you could adjust the code to pull the data to determine who won each state (instead of how it currently pulls data for each county), then add another for loop to determine who won the most states, therefore determining the winner. For a county-level election, you could add another for loop to determine the votes just within each county to determine who won the election there. 
