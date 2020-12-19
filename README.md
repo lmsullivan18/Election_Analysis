@@ -5,15 +5,15 @@ The purpose of this election analysis was to use the vote data to determine who 
 
 # Election-Audit Results
 
-In this congressional election, 369,711 total votes were cast.
+*In this congressional election, 369,711 total votes were cast.
 
-There are three different counties in the precinct – Jefferson, Denver and Arapahoe. Jefferson represented 10.5% of the total vote count, with 28,855 total votes cast in that county. Arapahoe represented 6.7% of the total vote count, with 24,801 votes cast in that county. Denver represented 82.8% of the total vote count, with 306,055 votes cast in that county.
+*There are three different counties in the precinct – Jefferson, Denver and Arapahoe. Jefferson represented 10.5% of the total vote count, with 28,855 total votes cast in that county. Arapahoe represented 6.7% of the total vote count, with 24,801 votes cast in that county. Denver represented 82.8% of the total vote count, with 306,055 votes cast in that county.
 
-Denver was the county with the largest number of votes.
+*Denver was the county with the largest number of votes.
 
-There were three different candidates running for election. Charles Casper Stockham received 23% of the vote, with 85,213 votes case for him. Diana DeGette received 73.8% of the votes, with 272,892 votes cast for her. Raymon Anthony Doane received 3.1% of the votes, with 11,606 votes cast for him.
+*There were three different candidates running for election. Charles Casper Stockham received 23% of the vote, with 85,213 votes case for him. Diana DeGette received 73.8% of the votes, with 272,892 votes cast for her. Raymon Anthony Doane received 3.1% of the votes, with 11,606 votes cast for him.
 
-In the enc, Diana DeGette won this election, with 272,892 votes cast for her, counting for 73.8% of votes.
+*In the end, Diana DeGette won this election, with 272,892 votes cast for her, counting for 73.8% of votes.
 
 # Election-Audit Summary
 
