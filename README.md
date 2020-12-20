@@ -12,7 +12,7 @@ Bulleted results of the election can be found below, along with an image of what
 
 - Denver was the county with the largest number of votes.
 
-- There were three different candidates running for election. Charles Casper Stockham received 23% of the vote, with 85,213 votes case for him. Diana DeGette received 73.8% of the votes, with 272,892 votes cast for her. Raymon Anthony Doane received 3.1% of the votes, with 11,606 votes cast for him.
+- There were three different candidates running for election. Charles Casper Stockham received 23% of the vote, with 85,213 votes cast for him. Diana DeGette received 73.8% of the votes, with 272,892 votes cast for her. Raymon Anthony Doane received 3.1% of the votes, with 11,606 votes cast for him.
 
 - In the end, Diana DeGette won this election, with 272,892 votes cast for her, counting for 73.8% of votes.
 
@@ -22,6 +22,6 @@ Bulleted results of the election can be found below, along with an image of what
 
 The script created for this analysis can be used for any election. 
 
-For a national election, you could adjust the code to pull the data from each state (instead of how it currently pulls data for each county), to determine which state makes up the most votes. You could then then add another for loop to determine who won the most states, therefore determining the winner of the election. 
+For a national election, you could adjust the code to pull the data from each state (instead of how it currently pulls data for each county), to determine which state makes up the most votes. You could then add another for loop to determine who won the most states, therefore determining the winner of the election. 
 
 For a county-level election, you could add another for loop to determine the votes just within each county to determine who won the election there. 
